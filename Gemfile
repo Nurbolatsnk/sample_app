@@ -62,3 +62,7 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
+# group :test do
+#   gem 'guard'
+#   gem 'minitest-reporters'
+# end
